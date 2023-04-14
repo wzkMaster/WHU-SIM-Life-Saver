@@ -1,11 +1,9 @@
 import { defineConfig } from "vitepress";
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "信管课程资料清单",
   description: "信管专业学习资料推荐",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "首页", link: "/" }],
 
     sidebar: [
@@ -36,7 +34,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/wzkMaster/awesome-SIM" },
     ],
   },
 });
