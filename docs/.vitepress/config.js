@@ -1,8 +1,8 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
-  title: "信管课程资料清单",
-  description: "信管专业学习资料推荐",
+  title: "信管求生指南",
+  description: "信管专业学习资料推荐和经验分享",
   themeConfig: {
     nav: [{ text: "首页", link: "/" }],
 
