@@ -8,28 +8,41 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "前言",
+        text: "简介",
         link: "/",
+        items: [],
       },
       {
-        text: "数学",
-        link: "/math",
-      },
-      {
-        text: "编程",
-        link: "/programming",
-      },
-      {
-        text: "其他课程",
-        link: "/other",
-      },
-      {
-        text: "工具推荐",
-        link: "/tools",
+        text: "资料清单",
+        link: "/list-front",
+        items: [
+          {
+            text: "数学",
+            link: "/math",
+          },
+          {
+            text: "编程",
+            link: "/programming",
+          },
+          {
+            text: "其他课程",
+            link: "/other",
+          },
+        ],
       },
       {
         text: "经验分享",
-        link: "/experience",
+        link: "/ex-front",
+        items: [
+          {
+            text: "工具推荐",
+            link: "/tools",
+          },
+          {
+            text: "碎碎念",
+            link: "/experience",
+          },
+        ],
       },
     ],
 
