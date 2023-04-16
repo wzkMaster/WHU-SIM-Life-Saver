@@ -8,11 +8,6 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "简介",
-        link: "/",
-        items: [],
-      },
-      {
         text: "资料清单",
         link: "/list-front",
         items: [
