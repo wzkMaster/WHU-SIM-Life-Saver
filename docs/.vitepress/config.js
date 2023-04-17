@@ -9,33 +9,39 @@ export default defineConfig({
     sidebar: [
       {
         text: "资料清单",
-        link: "/list-front",
         items: [
           {
+            text: "前言",
+            link: "/资料清单-前言",
+          },
+          {
             text: "数学",
-            link: "/math",
+            link: "/数学",
           },
           {
             text: "编程",
-            link: "/programming",
+            link: "/编程",
           },
           {
-            text: "其他课程",
-            link: "/other",
+            text: "数据科学",
+            link: "/数据科学",
           },
         ],
       },
       {
         text: "经验分享",
-        link: "/ex-front",
         items: [
           {
+            text: "前言",
+            link: "/经验分享-前言",
+          },
+          {
             text: "工具推荐",
-            link: "/tools",
+            link: "/工具推荐",
           },
           {
             text: "碎碎念",
-            link: "/experience",
+            link: "/碎碎念",
           },
         ],
       },
