@@ -1,5 +1,7 @@
 # 信管求生指南
 
+[在线阅读](https://awesome-sim.vercel.app)
+
 项目目前还 Work In Progress
 ## 项目介绍
 
