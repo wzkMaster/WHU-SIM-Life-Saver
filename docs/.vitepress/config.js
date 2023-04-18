@@ -40,6 +40,10 @@ export default defineConfig({
             link: "/工具推荐",
           },
           {
+            text: "信息检索",
+            link: "/信息检索",
+          },
+          {
             text: "碎碎念",
             link: "/碎碎念",
           },
