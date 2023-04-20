@@ -44,8 +44,12 @@ export default defineConfig({
             link: "/信息检索",
           },
           {
-            text: "碎碎念",
-            link: "/碎碎念",
+            text: "就业",
+            link: "/就业",
+          },
+          {
+            text: "其他",
+            link: "/其他",
           },
         ],
       },
