@@ -59,4 +59,5 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/wzkMaster/awesome-SIM" },
     ],
   },
+  base: "/WHU-SIM-Life-Saver/",
 });
