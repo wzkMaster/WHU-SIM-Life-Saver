@@ -10,10 +10,24 @@
 
 如果觉得指南有帮助可以多多分享给身边的同学。
 
-> 有任何建议或问题可以到项目的[github主页](https://github.com/wzkMaster/WHU-SIM-Life-Saver)提issue，或者直接联系727498469@qq.com
-
 ## 关于本指南
 
-这本指南的起因是我想要分享自己四年来搜集到的一些好东西，做一份资料清单，但后面又决定加入一些经验分享的内容，所以就变成了一本指南，希望能够帮助学弟学妹们少走一些弯路。
+书写这份指南的起因是我想要分享自己四年来搜集到的一些好东西，做一份资料清单；后面又决定加入一些经验分享的内容，所以就变成了一本指南，希望能够帮助学弟学妹们少走一些弯路。
 
-本指南受到了很多珠玉在前的类似指南的影响，包括[Teach Yourself Computer Science](https://teachyourselfcs.com/)，[CS自学指南](https://csdiy.wiki/)，[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)。我推荐的许多优质资料也都是免费获取的，这种**互联网的开源共享精神**也是激励我写下这些内容的重要原因。
+本指南受到了很多珠玉在前的类似指南的影响，包括[Teach Yourself Computer Science](https://teachyourselfcs.com/)，[CS自学指南](https://csdiy.wiki/)，[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)。这些都是非常优秀的开源学习指南，除此之外，我给大家推荐的许多优质资料也都是免费获取的，这种**互联网的开源共享精神**也是激励我写下这些内容的重要原因。
+
+## 贡献指南
+
+有任何建议或问题可以到项目的[github主页](https://github.com/wzkMaster/WHU-SIM-Life-Saver)提issue，或者直接联系727498469@qq.com。
+
+目前指南中亟待补充的内容包括：
+
+1. 关于各类比赛/竞赛的参加经验
+2. 关于考公、编制以及各类信管专业常见就业岗位的具体指南
+
+除此之外，以下内容也欢迎同学们的补充：
+
+1. 课程的学习资料
+2. 大学学习生活各个方面的经验分享
+
+想要贡献的同学可以通过 github issue 或者邮箱与我取得联系。
