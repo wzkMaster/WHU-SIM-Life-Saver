@@ -11,7 +11,7 @@ export default defineConfig({
         text: "资料清单",
         items: [
           {
-            text: "前言",
+            text: "目录 & 前言",
             link: "/资料清单-前言",
           },
           {
@@ -19,7 +19,7 @@ export default defineConfig({
             link: "/数学",
           },
           {
-            text: "编程",
+            text: "常用编程语言及计算机基础",
             link: "/编程",
           },
           {
@@ -32,7 +32,7 @@ export default defineConfig({
         text: "经验分享",
         items: [
           {
-            text: "前言",
+            text: "目录 & 前言",
             link: "/经验分享-前言",
           },
           {
