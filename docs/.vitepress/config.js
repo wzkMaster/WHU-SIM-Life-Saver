@@ -44,6 +44,10 @@ export default defineConfig({
             link: "/信息检索",
           },
           {
+            text: "保研",
+            link: "/保研",
+          },
+          {
             text: "就业",
             link: "/就业",
           },
@@ -59,5 +63,5 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/wzkMaster/awesome-SIM" },
     ],
   },
-  base: "/WHU-SIM-Life-Saver/",
+  base: "/",
 });
