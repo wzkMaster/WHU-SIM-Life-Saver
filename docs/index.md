@@ -30,4 +30,4 @@
 1. 课程的学习资料
 2. 大学学习生活各个方面的经验分享
 
-想要贡献的同学可以通过 github issue 或者邮箱与我取得联系。
+想要贡献的同学可以通过 github issue 或者邮箱与我取得联系。文章的内容需要使用 `markdown` 语言攥写，不会的话可以看[这个教程](https://www.runoob.com/markdown/md-tutorial.html)，请尽量遵守[排版规范](/markdown规范)。
