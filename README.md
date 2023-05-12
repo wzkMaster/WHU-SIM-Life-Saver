@@ -1,8 +1,7 @@
 # 信管求生指南
 
-[在线阅读](https://wzkmaster.github.io/WHU-SIM-Life-Saver)
+[在线阅读](https://sim-book.cn/)
 
-项目目前还 Work In Progress
 ## 项目介绍
 
 一份写给WHU信管院同学的小小指南，包括课程资料清单和学长学姐经验分享两大部分。
