@@ -41,4 +41,4 @@ pnpm run docs:dev
 2. 大学学习生活各个方面的经验分享
 3. 实用工具的推荐
 
-想要贡献的同学可以直接提 issue 或者 pr。文章的内容需要使用 `markdown` 攥写，写的时候请尽量遵守[排版规范](/markdown规范)。
+想要贡献的同学可以直接提 issue 或者 pr。文章的内容需要使用 `markdown` 攥写，写的时候请尽量遵守[排版规范](https://sim-book.cn/markdown规范)。
