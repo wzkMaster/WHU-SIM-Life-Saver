@@ -48,6 +48,10 @@ export default defineConfig({
             link: "/保研",
           },
           {
+            text: "考研",
+            link: "/考研",
+          },
+          {
             text: "就业",
             link: "/就业",
           },
