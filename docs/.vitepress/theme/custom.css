@@ -1,0 +1,23 @@
+/* 自定义样式 */
+
+/* 为整个网站添加统计信息的样式优化 */
+:root {
+  --stats-gradient-start: #f6f8fa;
+  --stats-gradient-end: #e9ecef;
+}
+
+.dark {
+  --stats-gradient-start: #1a1a1a;
+  --stats-gradient-end: #2d2d2d;
+}
+
+/* 页面底部统计信息样式 */
+.VPDoc {
+  position: relative;
+}
+
+/* 增加页面阅读体验 */
+.vp-doc h1 {
+  margin-bottom: 1em;
+}
+
