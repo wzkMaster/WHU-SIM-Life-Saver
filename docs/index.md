@@ -1,7 +1,5 @@
 # 简介
 
-<SiteStats />
-
 本指南包括两大部分：
 
 1. [资料清单](/资料清单-前言)中列出了我这四年以来用到的与信管课程相关最好的资料，包括数学、常用编程语言、机器学习、数据分析等科目。**不仅限于信管的同学**，只要你对这些科目感兴趣，都可以参考这份清单。更具体的介绍可以看资料清单的[前言](/资料清单-前言)。
@@ -34,3 +32,5 @@
 3. 实用工具的推荐
 
 想要贡献的同学可以通过 [github issue](https://github.com/wzkMaster/WHU-SIM-Life-Saver/issues) 或者邮箱与我取得联系。文章的内容需要使用 `markdown` 语言攥写（`markdown` 非常简单，半个小时就能学会，不会的话可以看[这个教程](https://www.runoob.com/markdown/md-tutorial.html)），写的时候请尽量遵守[排版规范](/markdown规范)。
+
+<SiteStats />

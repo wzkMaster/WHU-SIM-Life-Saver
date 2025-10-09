@@ -34,13 +34,6 @@ export default defineConfig({
             { text: '工具推荐', link: '/工具推荐' },
             { text: '其他', link: '/其他' }
           ]
-        },
-        {
-          text: '其他',
-          items: [
-            { text: 'Markdown规范', link: '/markdown规范' },
-            { text: '统计功能演示', link: '/统计功能演示' }
-          ]
         }
       ]
     },
@@ -51,15 +44,15 @@ export default defineConfig({
 
     footer: {
       message: '欢迎贡献内容，让指南更加完善',
-      copyright: 'Copyright © 2023-present WHU SIM'
+      copyright: 'Copyright © 2023-wzkMaster'
     }
   },
 
   head: [
     // 添加不蒜子统计脚本
     ['script', { 
-      async: true, 
-      src: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js' 
+      defer: true, 
+      src: 'https://vercount.one/js' 
     }]
   ]
 })
